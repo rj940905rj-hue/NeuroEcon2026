@@ -1,0 +1,6 @@
+interface:
+  display_name: "LaTeX Beamer Slides"
+  short_description: "Default Chinese LaTeX Beamer slide workflow"
+  default_prompt: "Use $latex-beamer-bilingual to create a Chinese LaTeX Beamer presentation by default, and switch to English only if requested."
+policy:
+  allow_implicit_invocation: true
